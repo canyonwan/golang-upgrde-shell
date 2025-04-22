@@ -62,7 +62,20 @@ To uninstall Go, manually remove the `/usr/local/go` directory:
 sudo rm -rf /usr/local/go
 ```
 
+
 ---
+
+## 支持作者 Support the Author
+
+如果本脚本对你有帮助，欢迎请作者喝一杯咖啡 ☕  
+If you find this script helpful, feel free to buy me a coffee!
+
+<img src="https://github.com/user-attachments/assets/cb49dc41-428f-4a97-8d01-167f864e48cb" alt="微信支付二维码" width="220" />
+
+
+
+感谢你的支持！  
+Thank you for your support!
 
 ## 免责声明 Disclaimer
 
